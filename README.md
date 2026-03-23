@@ -152,12 +152,6 @@ Request Reset → Enter New Password → Login
 
 ---
 
-## 📷 Screenshots (Optional)
-
-*Add screenshots of your UI here to make your repo more attractive*
-
----
-
 ## 🙌 Author
 
 **Vishva**
